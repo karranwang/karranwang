@@ -12,7 +12,7 @@ I'm passionate about web development, hacking, automation tools, and experimenti
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karranwang&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karranwang&layout=compact&theme=dracula)
 
 ## 📈 GitHub Stats
 
