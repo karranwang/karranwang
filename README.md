@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Karran Wang
 
-<!--
-**karranwang/karranwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about web development, automation tools, and experimenting with code to solve problems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ PHP, Python, JavaScript
+- 📡 SMTP, Email Automation
+- 🌐 Web-Based Tools (Frontend & Backend)
+- 🧠 Learning by Building
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karranwang&layout=compact&theme=tokyonight)
+
+## 📈 GitHub Stats
+
+![Karranwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=karranwang&show_icons=true&theme=tokyonight&hide_title=true)
+
+---
+
+⭐ Feel free to explore my repositories and follow if you're interested in similar projects!
