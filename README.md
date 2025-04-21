@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Karran Wang
+# Hi 👋 I'm Karran Wang
 
 Welcome to my GitHub profile!  
-I'm passionate about web development, automation tools, and experimenting with code to solve problems.
+I'm passionate about web development, hacking, automation tools, and experimenting with code to solve problems.
 
 ## 🔧 Tech Stack & Interests
 
